@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Want to protect us from uploading data files
+*.csv
+*.csv.gz
+
 # C extensions
 *.so
 
